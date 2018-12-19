@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wskaznik PPM</string>
+    <string name="przycisk_txt">Oblicz </string>
+    <string name="wzrost_txt">Podaj wzrost: </string>
+    <string name="masa_txt">Podaj mase: </string>
+    <string name="wskazowka_wzrost">wzrost</string>
+    <string name="opcje_wzrostu_txt">Wzrost w:</string>
+    <string name="wskazowka_masa">masa</string>
+    <string-array name="wzrost_opcje">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+    <string name="wiek_txt">Podaj wiek: </string>
+    <string name="wskazowka_wiek">wiek</string>
+    <string name="plec">Wybierz pleć: </string>
+    <string-array name="plec_opcje">
+        <item>Kobieta</item>
+        <item>Mezczyzna</item>
+    </string-array>
+    <string name="sposób_liczenia">Wybierz sposób obliczania PPM: </string>
+    <string-array name="sposób_opcje">
+        <item>Sposób Benedicta-Harrisa</item>
+        <item>Sposób Mifflina</item>
+    </string-array>
+    <string name="wynik_txt">Twoje PPM to </string>
+
+
+</resources>
